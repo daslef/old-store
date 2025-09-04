@@ -1,0 +1,13 @@
+main a:hover {
+    color: orange;
+}
+
+main a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+a>img {
+    height: 2em;
+}
