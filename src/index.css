@@ -9,32 +9,6 @@ a {
     text-decoration: none;
 }
 
-header {
-    padding: 20px calc(50% - 600px);
-    background-color: orange;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-header>a {
-    font-size: 1.2em;
-    font-weight: 600;
-}
-
-header a:hover {
-    color: yellow;
-}
-
-header>a:hover {
-    color: #000;
-}
-
-nav {
-    display: flex;
-    gap: 20px;
-}
-
 main {
     padding: 50px calc(50% - 600px);
 }
